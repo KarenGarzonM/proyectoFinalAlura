@@ -20,8 +20,3 @@ La aplicación sigue una arquitectura sencilla basada en **controladores, reposi
 | Lombok | Reducción de código repetitivo |
 | Flyway | Control de migraciones de base de datos |
 
----
-
-# 📁 Organización del Código
-
-El proyecto está estructurado en paquetes siguiendo buenas prácticas de Spring:
